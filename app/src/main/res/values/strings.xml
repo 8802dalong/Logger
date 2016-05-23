@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="showlog">显示log</string>
+    <string name="writelog">记录log—/sdcard/tt.log</string>
+</resources>
